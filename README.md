@@ -78,5 +78,8 @@ python library.py export-csv borrowed_books.csv
 
 ## Известные проблемы
 
+- Неизвестно
+
 ## Автор
 
+Владимир, 2, 11ФО
