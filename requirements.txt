@@ -1,0 +1,4 @@
+# Все используемые библиотеки входят в стандартную поставку Python:
+# sqlite3, argparse, datetime, csv, logging, pathlib, dataclasses
+#
+# Внешние зависимости не требуются.
